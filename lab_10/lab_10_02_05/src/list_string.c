@@ -1,5 +1,5 @@
-#include "../inc/types_defs.h"
-#include "../inc/list_string.h"
+#include "types_defs.h"
+#include "list_string.h"
 
 #include <stdio.h>
 #include <stdlib.h>
