@@ -72,3 +72,4 @@ else
     echo "Positive tests: correct $counter_pos of ${#array_pos_in[*]}"
     echo "Negative tests: correct $counter_neg" of "${#array_neg_in[*]}"
 fi
+
