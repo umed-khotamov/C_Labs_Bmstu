@@ -1,0 +1,4 @@
+Input error
+cat > neg_03_in.txt
+1
+12
