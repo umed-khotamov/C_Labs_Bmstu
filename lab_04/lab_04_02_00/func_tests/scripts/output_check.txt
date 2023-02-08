@@ -1,0 +1,3 @@
+Result:
+word 3
+lab 3
